@@ -1,0 +1,14 @@
+addAssignees: author
+
+addReviewers: true
+
+numberOfReviewers: 1
+
+reviewers:
+  - shirosweets
+
+runOnDraft: true
+
+filterLabels:
+  exclude:
+    - wip

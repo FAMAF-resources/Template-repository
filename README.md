@@ -18,9 +18,13 @@ Es correlativa de:
 git clone <repo-url>
 ```
 
+## Aula virtual
+
+![example](url)
+
 # Contribuciones
 
-Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) comunicarse con los administradores.
+Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) o comunicarse con los administradores.
 
 # Contributors
 <a href="https://github.com/FAMAF-resources/Template-repository/graphs/contributors">
