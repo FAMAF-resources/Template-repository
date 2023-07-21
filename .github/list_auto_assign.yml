@@ -6,6 +6,7 @@ numberOfReviewers: 1
 
 reviewers:
   - shirosweets
+  - AgustinMDominguez
 
 runOnDraft: true
 
