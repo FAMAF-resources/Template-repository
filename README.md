@@ -20,7 +20,15 @@
 
 - Ninguna.
 
-## Clonar el repositorio
+## Clonar el repositorio`
+
+> http
+
+```bash
+git clone <repo-url>
+```
+
+> ssh
 
 ```bash
 git clone <repo-url>
