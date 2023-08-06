@@ -4,15 +4,31 @@
 
 > Cuatrimestre
 
-Necesita tener aprobada:
+## Correlativas para **cursar**
 
-- 1
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| -   | Aprobada     |
 
-Es correlativa de:
+## Correlativas para **aprobar**
 
-- 1
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| -   | Aprobada     |
 
-## Clonar el repositorio
+## Es correlativa de:
+
+- Ninguna.
+
+## Clonar el repositorio`
+
+> http
+
+```bash
+git clone <repo-url>
+```
+
+> ssh
 
 ```bash
 git clone <repo-url>

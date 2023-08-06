@@ -7,6 +7,8 @@ numberOfReviewers: 1
 reviewers:
   - shirosweets
   - AgustinMDominguez
+  - diofanto33
+  - IvanRenison
 
 runOnDraft: true
 
