@@ -20,7 +20,7 @@
 
 - Ninguna.
 
-## Clonar el repositorio`
+## Clonar el repositorio
 
 **http**
 
